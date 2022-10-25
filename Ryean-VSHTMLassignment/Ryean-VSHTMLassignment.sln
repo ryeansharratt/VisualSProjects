@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryean-VSHTMLassignment", "Ryean-VSHTMLassignment\Ryean-VSHTMLassignment.csproj", "{7BD4D12F-C987-41EB-8622-9A7435A75DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD4D12F-C987-41EB-8622-9A7435A75DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD4D12F-C987-41EB-8622-9A7435A75DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD4D12F-C987-41EB-8622-9A7435A75DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD4D12F-C987-41EB-8622-9A7435A75DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A58A77B9-2FBF-4704-BC97-D45E1C74FC94}
+	EndGlobalSection
+EndGlobal
